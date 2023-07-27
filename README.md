@@ -1,6 +1,19 @@
 ## Frontend Challenge
 Solved by: Angel Mateo Gonzalez Bejarano | 2023
 
+
+## Running the project
+
+First, install the node dependencies using:
+```bash
+npm install
+```
+Second, run the project with:
+```bash
+npm run dev 
+```
+And you will see the page in `htttp://localhost:3000/`
+
 ### Used tools
 Hi there!
 For this challenge I used the following tools to create the app:
